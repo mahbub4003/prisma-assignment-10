@@ -1,0 +1,14 @@
+Recently, Next.js has released their 13th version. In this version, they have enabled the App directory and file system routing. So, I am also looking forward to following your course curriculum in the same way.
+
+ 
+
+I have implemented route management in the file system within the app directory for my project. Initially, there is a default page.js file in the app directory, which I have used as the home page. The route for the home page is "/" and the URL is localhost:3000.
+
+
+
+Furthermore, within the app directory, I have created another folder named "about" inside of which there is a file named page.js. I have used this to represent the About page. The route for the About page is "/about" and the URL is localhost:3000/about.
+
+
+
+Similarly, I have created another folder within the app directory named "contact" and inside it, there is a file named page.js. I have utilized this for the Contact page. The route for the Contact page is "/contact" and the URL is localhost:3000/contact.
+
